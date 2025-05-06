@@ -1,10 +1,4 @@
-
-:: 2021 ICT 14
-:: Operating System IT2244 (P)
-:: 21/03/2025
-
-:: Learning Basic Commmanfd Promt & .Bat File  Operation That Enables us To work With CMD 
-
+MD
 ::Task  :- 
 
 :: Disable command showing in the result
